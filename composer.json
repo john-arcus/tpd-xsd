@@ -1,0 +1,7 @@
+{
+    "name": "arcus-software/tpd-xsd",
+    "description": "Packaged version of the EU's TPD XSD",
+    "type": "library",
+    "license": "EUPL-1.1",
+    "require": {}
+}
